@@ -1,3 +1,4 @@
+![GitHub Actions Status](https://github.com/nischithasuresh87/Ex7_cdd/actions/workflows/ci.yml/badge.svg)
 # Experiment 7: Automating Build and Testing Using GitHub Actions
 
 ## Objective
